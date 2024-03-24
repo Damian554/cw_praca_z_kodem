@@ -1,4 +1,4 @@
-Przykładowy server flask\
+﻿Przykładowy server flask\
 Instalacja:\
 Zainstaluj Git i Python 3:\
 https://www.python.org/downloads/ \
@@ -7,9 +7,9 @@ Klonowanie repozytorium - git clone https://github.com/Damian554/cw_praca_z_kode
 Instalacja bibliotek:\
 make install\
 Albo\
-pip install - requirements.txt\
+pip install -r requirements.txt\
 uruchomienie aplikacji:\
 make run\
 albo\
-python -m flask run\
+python -m flask run
 
