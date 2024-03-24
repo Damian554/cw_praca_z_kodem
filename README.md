@@ -11,5 +11,19 @@ pip install -r requirements.txt\
 uruchomienie aplikacji:\
 make run\
 albo\
-python -m flask run
-
+python -m flask run\
+\
+\
+Sprawdź jakość stylu:\
+make style\
+albo\
+python -m pylint app.py\
+\
+\
+Dlaczego README jest istotne?\
+README jest istotnym elementem w projekcie, ponieważ pozwala użytkownikowi na szybkie i przystępne\
+zapoznanie się z projektem oraz instrukcją instalacji i obsługi aplikacji. Jest to często pierwszy punkt orientacyjny\
+dla nowego użytkownika. Z README korzyść ma zarówno developer jak i użytkownik, developer może przekazać najistotniejsze\
+informacje bez konieczności odsyłania do dokumentacji.\
+W README często też znajduje się instrukcja dla osób, które chcą pomóc w projekcie np. open source, co może znacząco\
+przyczynić się do rozwoju aplikacji.
